@@ -1,0 +1,15 @@
+{
+  "name": "software-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "override": "^0.0.1"
+  }
+}
